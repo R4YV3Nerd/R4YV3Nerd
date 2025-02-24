@@ -32,7 +32,8 @@ I believe in interdisciplinary learning, connecting knowledge from various field
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R4YV3Nerd)
+![Wakatime](https://wakatime.com/badge/user/your-user-id.svg)
+
 
 ---
 
