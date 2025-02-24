@@ -32,7 +32,7 @@ I believe in interdisciplinary learning, connecting knowledge from various field
 
 ## GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidul738)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=R4YV3Nerd)
 
 ---
 
