@@ -30,11 +30,4 @@ I believe in interdisciplinary learning, connecting knowledge from various field
 
 ---
 
-## GitHub Streak
-
-![Wakatime](https://wakatime.com/badge/user/your-user-id.svg)
-
-
----
-
 Feel free to connect with me! 😊
