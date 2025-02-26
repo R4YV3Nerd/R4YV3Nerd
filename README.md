@@ -1,6 +1,6 @@
 # Hello, call me r4yv3n 👋
 
-## About Me
+## 📖 About Me
 
 I'm an **IT**, **Low-level**, and **Cybersecurity** enthusiast, passionate about sharing my learning journey through insightful blogs and resources. Currently, I'm a student at **42**, diving deep into various technical domains while constantly exploring new ways to expand my knowledge.
 
