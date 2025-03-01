@@ -13,9 +13,5 @@
 **Photoshop online for free**: [Click here](https://www.photopea.com/) to access an online Photoshop alternative.  
 
 <div align="center">
-  
-```
 Working on adding new ones soon ⏳🔄
-```
-
 </div>
