@@ -32,4 +32,4 @@ I believe in interdisciplinary learning, connecting knowledge from various field
 
 Feel free to connect with me! 😊
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rayvenerd&theme=modern-lilac2&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=R4YV3Nerd&theme=modern-lilac2&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
