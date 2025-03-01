@@ -40,6 +40,6 @@ Feel free to connect with me! 😊
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31zqpibeclu4m2c3yaenyt26cl4e&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zqpibeclu4m2c3yaenyt26cl4e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31zqpibeclu4m2c3yaenyt26cl4e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
   </a>
 </p>
