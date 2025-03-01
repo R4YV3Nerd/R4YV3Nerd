@@ -32,4 +32,4 @@ I believe in interdisciplinary learning, connecting knowledge from various field
 
 Feel free to connect with me! 😊
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rayvenerd&theme=modern-lilac2&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rayvenerd&theme=modern-lilac2&border_radius=5&short_numbers=true)](https://git.io/streak-stats)
