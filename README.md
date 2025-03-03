@@ -10,8 +10,7 @@ In addition to code, I have a strong interest in:
 - **Mathematics** (love exploring the beauty of numbers and problem-solving)
 - **Computer Architecture and Hardware** (interested in understanding how computers are built and function, with a solid foundation in the fundamentals)
 
-I believe in interdisciplinary learning, connecting knowledge from various fields to create a well-rounded perspective.
-
+I believe in consistent learning, integrating knowledge from various fields to build a well-structured perspective and a strategic approach to learning.
 ---
 
 ## 🌱 Currently Learning:
