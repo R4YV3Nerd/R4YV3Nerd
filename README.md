@@ -11,6 +11,7 @@ In addition to code, I have a strong interest in:
 - **Computer Architecture and Hardware** (interested in understanding how computers are built and function, with a solid foundation in the fundamentals)
 
 I believe in consistent learning, integrating knowledge from various fields to build a well-structured perspective and a strategic approach to learning.
+
 ---
 
 ## 🌱 Currently Learning:
