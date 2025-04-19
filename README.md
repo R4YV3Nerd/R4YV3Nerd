@@ -2,9 +2,9 @@
 
 ## 📖 About Me
 
-I'm a **hardware**, **OSINT**, **history**, and **geopolitics** enthusiast, passionate about connecting knowledge across disciplines. I love exploring how systems work—from the internals of a CPU to the complexities of global strategy.
+I'm a **hardware**, **OSINT**, **history**, and **geopolitics** enthusiast. I'm passionate about learning different things and finding cool ways they connect. I enjoy understanding how computers work and how the world works too.
 
-I regularly share insights through personal blogs and resources as part of my learning journey. Stay tuned—some exciting projects are currently private and will be revealed soon!
+I also write personal blogs to share what I learn. Stay tuned—some of my projects are private for now but will be shared soon!
 
 ---
 
