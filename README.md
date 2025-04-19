@@ -4,7 +4,7 @@
 
 I'm a **hardware**, **OSINT**, **history**, and **geopolitics** enthusiast. I'm passionate about learning different things and finding cool ways they connect. I enjoy understanding how computers work and how the world works too.
 
-I also write personal blogs to share what I learn. Stay tuned—some of my projects are private for now but will be shared soon!
+I also write personal blogs to share what I learn. Stay tuned.. some of my projects are private for now but will be shared soon!
 
 ---
 
