@@ -13,6 +13,7 @@ I also write personal blogs to share what I learn. Stay tuned.. some of my proje
 - **Computer Architecture and Hardware**
 - **Linux Shell & Bash**
 - **Network Security & Penetration Testing**
+- **Full Stack Web Development**
 - **Mathematics & Strategic Thinking**
 
 ---
